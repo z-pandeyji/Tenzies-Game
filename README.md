@@ -1,4 +1,4 @@
-# Tenzies Game
+# Tenzies Game https://tenzies-game1.herokuapp.com/
 
  * In this game you have to Roll the dice and select the same number until you selected all the same number. When you select every dice you won!
 
